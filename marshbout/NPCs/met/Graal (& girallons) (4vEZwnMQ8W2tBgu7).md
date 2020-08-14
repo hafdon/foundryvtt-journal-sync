@@ -13,9 +13,13 @@
 
 <!-- -->
 
+<!-- -->
+
 ## Girallons
 
 - \- Flick: Well there’s Seomra Crann, but don’t tell them we sent you. / - Graal: Heh. That’s a common sentiment among the Girallon. It’s considered polite not to mention who else you know as a shared friend. 
+
+<!-- -->
 
 <!-- -->
 

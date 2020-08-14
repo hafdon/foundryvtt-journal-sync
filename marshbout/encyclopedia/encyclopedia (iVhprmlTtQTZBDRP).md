@@ -22,6 +22,8 @@
 
 **Hodmandod**: A generic term for a strange creature which the gnolls used to describe the 'fetus mushrooms.'
 
+**millismack**: smallest possible unit of measure in determining initiative
+
 **Norman Barrelchest**: A co-constable at the northeast armory in Marshbout.
 
 **Organiborgs: **"Organic cyborgs" i.e. completely organic entities (?).
@@ -35,6 +37,8 @@
 \*\*Sigmols: \*\*Icons or insignia.
 
 **Spirl**: A spider-squirrel. (et vide **Squipider**)
+
+**stardust**: Startrella's pearl necklace haste spell excretions.
 
 **Turr**: A brindled bison species native to the Serayya Plains. Elders of the species grow prominent neck wattles which are often trimmed during domestication.
 

@@ -17,10 +17,14 @@
 
 <!-- -->
 
+<!-- -->
+
 day 8
 
 - more gnolls where vegetation is growing out of their body.
 - ian does his own description: "i see these thick(?) gnolls laid out like that.
+
+<!-- -->
 
 <!-- -->
 
@@ -46,6 +50,8 @@ i need a timeline for thaz
 
     <!-- -->
 
+    <!-- -->
+
 - Carlos: what toxic property is the blood supposed to have?
 
 - Flick: Acidic
@@ -61,11 +67,15 @@ i need a timeline for thaz
 
 <!-- -->
 
+<!-- -->
+
 > ## crafting and harvesting poison
 > 
 > During downtime between adventures, a character can use the crafting rules in the Player's Handbook to create basic poison if the character has proficiency with a poisoner's kit. At your discretion, the character can craft other kinds of poison. Not all poison ingredients are available for purchase, and tracking down certain ingredients might form the basis of an entire adventure. A character can instead attempt to harvest poison from a poisonous creature, such as a snake, wyvern, or carrion crawler. The creature must be incapacitated or dead, and the harvesting requires 1d6 minutes followed by a DC 20 Intelligence (Nature) check. (Proficiency with the poisoner's kit applies to this check if the character doesn't have proficiency in Nature.) On a successful check, the character harvests enough poison for a single dose. On a failed check, the character is unable to extract any poison. If the character fails the check by 5 or more, the character is subjected to the creature's poison.
 
 - i use rules for poisoner's kit
+
+<!-- -->
 
 <!-- -->
 
@@ -113,6 +123,10 @@ i need a timeline for thaz
 
     <!-- -->
 
+    <!-- -->
+
+
+<!-- -->
 
 <!-- -->
 
@@ -130,6 +144,10 @@ i need a timeline for thaz
 
     <!-- -->
 
+    <!-- -->
+
+
+<!-- -->
 
 <!-- -->
 
@@ -140,6 +158,8 @@ i need a timeline for thaz
 - body of gnolledge on the ground
 - hill all of a sudden moves, and opens up into two massive brown wings; hideous face on this giant bird; head is that of a giant wolf with a bird beak at the end; gigantic stag antlers coming out of its head; takes off into the air silently; goes soaring over the top of you.
 - headed southeast.
+
+<!-- -->
 
 <!-- -->
 
@@ -164,6 +184,8 @@ Calliope "casts" Warp Shadow by flying over them
 
     <!-- -->
 
+    <!-- -->
+
 - get back into town around when everyone else is waking up.
 
 - Mezlar: my brother! this is getting worse; - started a few months ago; once a month; then once a week; a day; two a day
@@ -180,6 +202,8 @@ Calliope "casts" Warp Shadow by flying over them
 
     <!-- -->
 
+    <!-- -->
+
 - Mezlar: in Thaz we were losing one of stealthiest and best fighters - my brother was something of a klutz; not that he in any way deserved this; I also wonder what he was doing out in the early morning like that.
 
     - did you see anything around him ?
@@ -189,6 +213,10 @@ Calliope "casts" Warp Shadow by flying over them
 
     <!-- -->
 
+    <!-- -->
+
+
+<!-- -->
 
 <!-- -->
 
@@ -207,10 +235,14 @@ Calliope "casts" Warp Shadow by flying over them
 
     <!-- -->
 
+    <!-- -->
+
 - medical or magical problem: definitely a magical problem
 
     - where the bluebells are growing; the nurse's flesh is pale white roots holding their flesh together
     - with palpation, those areas are totally numb; and she can't move the areas underneath
+
+    <!-- -->
 
     <!-- -->
 
@@ -223,6 +255,8 @@ Calliope "casts" Warp Shadow by flying over them
     - close to coast, so could take a boat
     - still expanding
     - sightings of satyrs, dryads, or druids growing these flowers from them, but not reported on humanoids / mortals
+
+    <!-- -->
 
     <!-- -->
 
@@ -245,6 +279,8 @@ Calliope "casts" Warp Shadow by flying over them
 
     <!-- -->
 
+    <!-- -->
+
 - Thaz: are you referring to the dravitas ?
 
     - they had continued to be discovered until yesterday. knowing what you told us about killing kolmy, it would be hard to tell if she was doing it, because her effects on the area couldn't be determined for a few days.
@@ -253,6 +289,10 @@ Calliope "casts" Warp Shadow by flying over them
 
     <!-- -->
 
+    <!-- -->
+
+
+<!-- -->
 
 <!-- -->
 
@@ -262,6 +302,8 @@ Calliope "casts" Warp Shadow by flying over them
 
 - Flick, when the shadow came over you; it didn't have a bird's shadow
 - Carlos: I can make it rain in a 30ft cube
+
+<!-- -->
 
 <!-- -->
 
@@ -333,6 +375,8 @@ gloves of climbing and swimming
 
     <!-- -->
 
+    <!-- -->
+
 - "forced into owl by budduck"
 
 - "yes, no one i knew"
@@ -355,6 +399,8 @@ gloves of climbing and swimming
 
 - the druids who did that are still around
 
+
+<!-- -->
 
 <!-- -->
 

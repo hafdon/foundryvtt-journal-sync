@@ -21,6 +21,8 @@ Day 9, time ?
 
 <!-- -->
 
+<!-- -->
+
 ## starting recording
 
 ### Carlos sees the mule going through spirit puberty
@@ -50,11 +52,15 @@ Day 9, time ?
 
 <!-- -->
 
+<!-- -->
+
 ### catching up with Lanhareth
 
 - Lanhareth: you were also there! (Drav, Flick, Paros, Fez, Carlos?) - dot dot, slash and hypen are doing well
 
     - i don't know briffa and reginald
+
+    <!-- -->
 
     <!-- -->
 
@@ -74,6 +80,8 @@ Day 9, time ?
 
 - P: oh yeah i guess that makes sense. any tips on avoiding getting struck by bird poop?
 
+
+<!-- -->
 
 <!-- -->
 
@@ -101,6 +109,8 @@ Day 9, time ?
 
 <!-- -->
 
+<!-- -->
+
 ### Lan on fizzlecane
 
 - Flick (this guy is high as balls) - [nat 20 insight] L is high on own supply. you remember them complaining about Ymenetra, and how she made bad jokes, so get the impression that L likes being own boss, and likes being in the company of elves
@@ -117,6 +127,8 @@ Day 9, time ?
 
     <!-- -->
 
+    <!-- -->
+
 - Carlos: you did not get the "this is an abomination" feeling. it's an extremely intense concentration f world energy. - <s>it doesn't&nbsp;not&nbsp;extend to the poop</s>
 
     (this contradicts what i later say, so ignore it)
@@ -124,6 +136,8 @@ Day 9, time ?
     - retroactive smell of poop: just smelled chalky. takes a chipping of poop and mixes with holy water.
     - as mix it with bottle of holy water, turns into bright shining swirling liquid almost like microwaved syrup or the golden lion syrup. scintillating. feels like a little rivulet that runs off the massive ball of life energy. it just has the viscosity of syrup. it smells like freshly cut grass. Carlos tastes it. [20 wisdom]
     - Carlos tastes the liquid (wants to keep it incase it's useful). in front of you is Hiero's mule. you can see that the eye that emerged from its head is one of 6 total; 3 under the skin. glowing golden silhouettes of potential eyes. 8 more mouths layered impossibly one on top of the other. and an inset horn, like a ram's horn, set within its head, in potentia.
+
+    <!-- -->
 
     <!-- -->
 
@@ -145,6 +159,8 @@ Day 9, time ?
 
 - Drav: I thought the mule was your wife.
 
+
+<!-- -->
 
 <!-- -->
 
@@ -177,10 +193,14 @@ Day 9, time ?
 
     <!-- -->
 
+    <!-- -->
+
 - flick: what a pleasure to see you here away from that overbearing boss of yours, having struck out on your own. - Lan: more like "hit a grand slam on my own"
 
     <!-- -->
 
+
+<!-- -->
 
 <!-- -->
 
@@ -207,6 +227,8 @@ Day 9, time ?
 
     <!-- -->
 
+    <!-- -->
+
 - flick: what are you doing to yourself, buddy?
 
 - L: oh the walk from Briangle? oh, that's nothing. battlepick hates me for sure, but nothing i couldn't handle.
@@ -219,6 +241,10 @@ Day 9, time ?
 
     <!-- -->
 
+    <!-- -->
+
+
+<!-- -->
 
 <!-- -->
 
@@ -230,6 +256,8 @@ Day 9, time ?
 - LH: if anyone is a drug user here, it's Battlepick
 - H: hey you want to pick your battles, man
 - L: (to Battlepick): don't say anything too nasty about me, even though it's against your natural inclinations.
+
+<!-- -->
 
 <!-- -->
 
@@ -252,6 +280,8 @@ Day 9, time ?
 - L: well, it sounds like too much of a depressant. i prefer a nice stimulant. - F: well, all the best to you
 
     - L: you as well!
+
+    <!-- -->
 
     <!-- -->
 
@@ -285,6 +315,8 @@ Day 9, time ?
 
     <!-- -->
 
+    <!-- -->
+
 - Paros: Congratulations. - L: congratulations to you!
 
     <!-- -->
@@ -296,11 +328,15 @@ Day 9, time ?
 
 <!-- -->
 
+<!-- -->
+
 ### drav and the philosophers
 
 - [D recognizes the two philosophers from the fresco.] - cozies over and observs from nearby.
 
     - can get close; they look engaged in conversation. "The changespace". arguing about whether or not the events in the CS are stable throughout all time, or if they are changed by its manifestation in the material world.
+
+    <!-- -->
 
     <!-- -->
 
@@ -371,8 +407,12 @@ Day 9, time ?
 
     <!-- -->
 
+    <!-- -->
+
 - [drav: they seem more academic than the last druids we met]
 
+
+<!-- -->
 
 <!-- -->
 
@@ -393,6 +433,10 @@ Day 9, time ?
 
     <!-- -->
 
+    <!-- -->
+
+
+<!-- -->
 
 <!-- -->
 
@@ -409,6 +453,8 @@ Day 9, time ?
 
 <!-- -->
 
+<!-- -->
+
 <pre>10 years ago
 - Seomra Crann started "coming into its own" - increase in growth, the ability to grow flowers to point people in the right direction, create staircases 
 </pre>
@@ -416,6 +462,8 @@ Day 9, time ?
 - that's what we were arguing about when you came up!
 - Drav: do you perform a lot of rituals within Seomra
 - Lovesea: we try not to unless we understand what's going on. There are druids that do do rituals, but it's with Seomra's consert, and that muddies the waters about where the energy is coming from
+
+<!-- -->
 
 <!-- -->
 
@@ -454,6 +502,8 @@ Day 9, time ?
 
 <!-- -->
 
+<!-- -->
+
 ### into Seomra?
 
 - as you cross the threshold it's no longer dark inside; looks a little like just before twilight. - Paros asks for darkness like night. (a big flower just comes and covers Paros's face
@@ -487,6 +537,8 @@ Day 9, time ?
 
 <!-- -->
 
+<!-- -->
+
 ### up the "stairs"
 
 - move pretty fast, or seems like it.
@@ -501,6 +553,8 @@ Day 9, time ?
 
     <!-- -->
 
+
+<!-- -->
 
 <!-- -->
 
@@ -524,6 +578,8 @@ Day 9, time ?
 
     <!-- -->
 
+    <!-- -->
+
 - Flick is playing so well that covers up for H's missteps
 
 - H when you look down, a tendril has wound around bag and tree is helping you play a little better by squeezing you in encouragement; and "fingering" the holes - (reed played like a flute)
@@ -542,8 +598,12 @@ Day 9, time ?
 
     <!-- -->
 
+    <!-- -->
+
 - Flick is "self-taught" at the … whatever. flute?
 
+
+<!-- -->
 
 <!-- -->
 
@@ -568,6 +628,8 @@ Day 9, time ?
 - Aphelia has Cardinal red skin and looks down at the dulcimer as Flick says "i bet you don't remember learning how to do that" - [the tree is not helping her play]
 
     - Flick 25 performance : Aphelia's control over the music relaxed a little when asked those questions, almost like she wasn't sure how to approach the situation
+
+    <!-- -->
 
     <!-- -->
 
@@ -614,6 +676,8 @@ Day 9, time ?
 
 <!-- -->
 
+<!-- -->
+
 Epes<br>
 
 stunka
@@ -623,6 +687,8 @@ stunka
     - this spiky tendril wraps them up almost tenderly and retracts back into the wall
     - Fez: they stole my boots
     - [this process makes sense to fez in a way that's not stressing]
+
+    <!-- -->
 
     <!-- -->
 
@@ -652,6 +718,8 @@ stunka
 
     <!-- -->
 
+    <!-- -->
+
 - JL: why not? we're in a magical hedge.
 
 - eth-trovatelka : precisely for that reason i don't think it would be allowed. it would have to take place under the supervision of … trails off
@@ -663,6 +731,8 @@ stunka
 - H: do you know fortune tellers, oracles, seers, dodonas, (bagpipe toots)
 
     - one of the others in the back plays on a pan flute
+
+    <!-- -->
 
     <!-- -->
 
@@ -694,9 +764,13 @@ stunka
 
     <!-- -->
 
+    <!-- -->
+
 - flick: "can you remember when you were part of calliope"
 
     - aphelia: nods and plays bass note
+
+    <!-- -->
 
     <!-- -->
 
@@ -710,9 +784,13 @@ stunka
 
     <!-- -->
 
+    <!-- -->
+
 - flick if we could return you to this point (basS) is that something you want?
 
     - aphelia plays all the sounds, including silence , in sequence.
+
+    <!-- -->
 
     <!-- -->
 
@@ -731,12 +809,16 @@ stunka
 
 <!-- -->
 
+<!-- -->
+
 ### carlos holds tobolux's bottle out towards shrub
 
 - "please, dear shrub, since you seem to be of the flower people as well, is there anything you can do for my dear friend? " - bottle still looks like multicolored sand. the hedge pulls bottle towards itself, and a stairway opens, and it's hanging the bottle up the stairway like a wil-o-the-wisp
 
     <!-- -->
 
+
+<!-- -->
 
 <!-- -->
 
@@ -749,6 +831,8 @@ stunka
 - Carlos [feel like you're moving towards that ball of energy]
 
     - "what a wonderful feeling"
+
+    <!-- -->
 
     <!-- -->
 
@@ -770,6 +854,8 @@ stunka
 
     <!-- -->
 
+    <!-- -->
+
 - Simurgh: welcome to my bower. it looks like you've been brought here with one of the flower folk.
 
 - Carlos: my dear friend toblerone was injured in a battle. i was hoping that, since you seem to be of the same flower-eyed people, if you could help her.
@@ -784,11 +870,15 @@ stunka
 
     <!-- -->
 
+    <!-- -->
+
 - [the bottle leaves your hand as though telekinetically, and approches the simurgh.]
 
 - S: it appears there is more than just a bloemenwet in here.
 
     - ther'es a sort of trikster in here. something i'd rather not release into the hedge if i don't have to. [oklmuk]
+
+    <!-- -->
 
     <!-- -->
 
@@ -811,9 +901,13 @@ stunka
 
     <!-- -->
 
+    <!-- -->
+
 - flare subsides into simurgh's body. tobolux is cradled in the air; the bottle, filled with seething black liquid, is floating next to him.
 
     - simurgh: "it turns out i don't know my own strength. tobolux: should be recuperated within a day as long as you apply the proper medicinal remedies, good care and tlc. if you'd like you may bring him with you.
+
+    <!-- -->
 
     <!-- -->
 
@@ -836,6 +930,8 @@ stunka
 
     <!-- -->
 
+    <!-- -->
+
 - Everyone else is blind and standing stock-still. flick hears pattering worrisomely close to her body.
 
 - Paros feels like eveyrone else is a loser.
@@ -848,6 +944,8 @@ stunka
 
     <!-- -->
 
+    <!-- -->
+
 - Paros: this wolf-eagle knows how to party
 
 - Flick: blinks away spiralling flares that cloud my vision
@@ -855,6 +953,8 @@ stunka
     - : noble beast, we are here because a creature that bears an uncanny resemblance to you is terrorizing our friends. it answers to the name Peryton
     - S: a creature answers to that name, in this Age?
     - flick: when its shadow fell upon me i felt dread that was not of this world. "peryton" is the name that was giving to me by its victims.
+
+    <!-- -->
 
     <!-- -->
 
@@ -879,6 +979,8 @@ stunka
 - Simurgh. on, i know that old demon well.
 
     - let me ask: were there antlers on its head?
+
+    <!-- -->
 
     <!-- -->
 
@@ -917,6 +1019,8 @@ stunka
 
 <!-- -->
 
+<!-- -->
+
 ## concerns
 
 - did Daealla tell flick that Aphelia wasn't aware of her condition ? (flick says this at 1:30 in recording of session 26)
@@ -924,6 +1028,8 @@ stunka
 - eth-T understands fey
 - what does the Simurgh know about Tantegorisch
 - maybe shadow felt evil b/c that's where a baphomet creature is living.
+
+<!-- -->
 
 <!-- -->
 

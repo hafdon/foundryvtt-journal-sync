@@ -37,10 +37,14 @@ As Hieronymus proceeded to dig up the entire clearing in search of ptomous[[5]](
 
 <!-- -->
 
+<!-- -->
+
 ## who got what?
 
 - Hieronymus: beefed up quarterstaff
 - Fez: beefed up whip
+
+<!-- -->
 
 <!-- -->
 
@@ -63,6 +67,8 @@ As Hieronymus proceeded to dig up the entire clearing in search of ptomous[[5]](
 
 <!-- -->
 
+<!-- -->
+
 ## recap of session 24?
 
 - fez, turtle, new storm power
@@ -70,6 +76,8 @@ As Hieronymus proceeded to dig up the entire clearing in search of ptomous[[5]](
 - carlos hammer is sledge hammer wrapped in duct tape and - smells like stale tobacco
 
     - Dogdo was the chill dude communicating; Aulë was the one a little more uptight. depending on ethical approach to situations, you have better or worse access or one or the other.
+
+    <!-- -->
 
     <!-- -->
 
@@ -104,12 +112,16 @@ As Hieronymus proceeded to dig up the entire clearing in search of ptomous[[5]](
 
 <!-- -->
 
+<!-- -->
+
 ---
 
 ## evening
 
 - they encamped about half a mile east of the Kashte'a river
 - get a full night's rest (so it will be day 9)
+
+<!-- -->
 
 <!-- -->
 
@@ -131,10 +143,14 @@ As Hieronymus proceeded to dig up the entire clearing in search of ptomous[[5]](
 
     <!-- -->
 
+    <!-- -->
+
 - planar warrior: arrow gets converted into non-whatever force - paints them with ocre chalk
 
     <!-- -->
 
+
+<!-- -->
 
 <!-- -->
 
@@ -155,6 +171,8 @@ As Hieronymus proceeded to dig up the entire clearing in search of ptomous[[5]](
     - Flick: you know what, H, you're alright. if i TURNIP anymore, i will make some for you. - I use this! (fizzlecyst blood concentrate. smells strongly of … fishy eely smell, but a very nice petrichor undercurrent)
 
         <!-- -->
+
+    <!-- -->
 
     <!-- -->
 
@@ -185,6 +203,8 @@ As Hieronymus proceeded to dig up the entire clearing in search of ptomous[[5]](
 
 <!-- -->
 
+<!-- -->
+
 ## hallucinations: Hieronymus circles the grove and the "appearance" of Roxstallana
 
 - mule now looks like Roxstallana to Hieronymus. - H wanders around clearing shaking his quarterstaff and screaming.
@@ -200,6 +220,10 @@ As Hieronymus proceeded to dig up the entire clearing in search of ptomous[[5]](
 
     <!-- -->
 
+    <!-- -->
+
+
+<!-- -->
 
 <!-- -->
 
@@ -219,8 +243,12 @@ As Hieronymus proceeded to dig up the entire clearing in search of ptomous[[5]](
 
     <!-- -->
 
+    <!-- -->
+
 - bampot: what's this guy doing with the stick tho?
 
+
+<!-- -->
 
 <!-- -->
 
@@ -240,6 +268,8 @@ As Hieronymus proceeded to dig up the entire clearing in search of ptomous[[5]](
 
     - bottle never destroyed; tobolux part ifriit, tobolux, and oklmuk
     - as Carlos rubs the sand bottle, it becomes liquid, of the same colors, and pulses, but nothing more happens.
+
+    <!-- -->
 
     <!-- -->
 
@@ -312,6 +342,8 @@ As Hieronymus proceeded to dig up the entire clearing in search of ptomous[[5]](
 
 <!-- -->
 
+<!-- -->
+
 ## two more goblins become noticeable
 
 ### goblins want to get at flowers
@@ -331,10 +363,14 @@ As Hieronymus proceeded to dig up the entire clearing in search of ptomous[[5]](
 
 <!-- -->
 
+<!-- -->
+
 ### goblins trade with humans, and get along with them
 
 - goblins: the humans make living off lake, primarily. thubudder is very large and we also are just as comfortable living underground, so we have caves and rock homes. they don't hunt goblins or bear us any ill will. we don't get a whole lot of visitors. we do have a connection wtih one of the restaurants in town -- one of the more experimental / avante guard chefs. we have ways of neutralizing some of the poisonous effects, so we can cut the poisonous glands out, and provide them with the non-poisonous flesh.
 - flick: we're in the area chasing a rumor about a place of power. about druids.
+
+<!-- -->
 
 <!-- -->
 
@@ -371,16 +407,26 @@ As Hieronymus proceeded to dig up the entire clearing in search of ptomous[[5]](
 
 <!-- -->
 
+<!-- -->
+
 ### hieronymus has dug up half the campsite.
 
 - H: no weeds! but i did find this pile of bones and the corpses of six adventurers with tiny goblin daggers plunged into their hearts. -- or corpse of one adventurer.
+
 - Carlos: check if they are bones, and if H is still hallucinating.
+
 - [H, your knowledge of goblin daggers is based on interactions with Feekus -- which wasn't even his real name]
+
 - Carlos: 25. H is looking at rock bones, like somebody was literally petrified. or some other chemical event took place. and he's no longer hallucinating. the "dagger" is also stone. it looks like a flint-daggers with the scalloped edges. the rock wasn't naturally formed; it's rock now but the rock itself is 20 years old.
+
 - bampot: these actually mark where the mafflegold flowers are sometimes, but we don't have any way of telling what it is. we've seen others in other parts of Thubudder. there are people in Skimming who've looked into it. they might have info at the natural history museum or one of the academies.
+
 - Carlos Insight: <failure></failure>
 
 - bampot: the museum is made from a gigantic meteorite from the bottom of the lake. first it was a church, and then a city hall, and then a museum.
+
+
+<!-- -->
 
 <!-- -->
 
@@ -396,10 +442,14 @@ As Hieronymus proceeded to dig up the entire clearing in search of ptomous[[5]](
 
     <!-- -->
 
+    <!-- -->
+
 - emerging from the ground: a giant turnip. 10 feet in diameter.
 
 - the little roots at the end start squiggling around, and the goblins shout: "oh no it's one of these things!!"
 
+
+<!-- -->
 
 <!-- -->
 
@@ -422,6 +472,8 @@ As Hieronymus proceeded to dig up the entire clearing in search of ptomous[[5]](
 - hieronymus: throws broken bagpipes down at the ground; crouches down, summoning energy from the ground, and attacks. in order to perform stunning strike. - uses quarterstaff as a pole vault and vaults himself into the air. how does he enact a stunning strike?
 
     - the flippety-doo part of it? when H lands, he jabs the end of the staff down at one of the roots, like it's someone's toe.
+
+    <!-- -->
 
     <!-- -->
 
@@ -473,6 +525,8 @@ As Hieronymus proceeded to dig up the entire clearing in search of ptomous[[5]](
 
     <!-- -->
 
+    <!-- -->
+
 - Flick doubles over and vomits
 
 - K: doesn't this humanize me at all to you. here i am in all my nakedness, yet you would still attack.
@@ -480,6 +534,8 @@ As Hieronymus proceeded to dig up the entire clearing in search of ptomous[[5]](
 - Paros spends this turn not reading. - Paros starts experimenting with self-hard in form of shocking grasp. Readies shocking grasp as an action.
 
     - "if the potato acts aggressively"
+
+    <!-- -->
 
     <!-- -->
 
@@ -502,6 +558,8 @@ As Hieronymus proceeded to dig up the entire clearing in search of ptomous[[5]](
 
 <!-- -->
 
+<!-- -->
+
 ## out of combat and fezz gets a beefy whip
 
 - Drav to K: can we just leave you alone
@@ -514,6 +572,8 @@ As Hieronymus proceeded to dig up the entire clearing in search of ptomous[[5]](
 
     <!-- -->
 
+    <!-- -->
+
 - Drav to BP: is there a danger leaving it there?
 
 - BP: if they get too big they release these sacks filled with spores. they are considered delicacies amongst Goblins but they require a great deal of care, so they are dangerous to other animals, and we try to recover them before they explore. it's a balancing act. we should probably have a better system. - this one matured faster than they usually do
@@ -521,6 +581,8 @@ As Hieronymus proceeded to dig up the entire clearing in search of ptomous[[5]](
     - Drav: can we ask them when they will mature?
     - BP: i'm not sure they have a great sense of chronology.
     - BP repeats carbunkle a million times. and starts drooling. i'm thinking of how delicious the spore sacks are.
+
+    <!-- -->
 
     <!-- -->
 
@@ -542,6 +604,8 @@ As Hieronymus proceeded to dig up the entire clearing in search of ptomous[[5]](
 
 - K: i've been able to put some of my sharper elements on it. they should last as long as you take care of it. requires a little tea tree oil. if you bury it in a forested area for 24 hours, it should heal
 
+
+<!-- -->
 
 <!-- -->
 
@@ -584,6 +648,8 @@ As Hieronymus proceeded to dig up the entire clearing in search of ptomous[[5]](
 
 <!-- -->
 
+<!-- -->
+
 ## asking about druids
 
 - Flick: in elvish: we seek the druids who made the flying terror of the south. we seek a place of power where the child of the monster woman is stored.
@@ -598,9 +664,13 @@ As Hieronymus proceeded to dig up the entire clearing in search of ptomous[[5]](
 
     <!-- -->
 
+    <!-- -->
+
 - flick: i need a drink after my last ham - what the fuck is the alldrink?
 
     - flick: where does it come from?
+
+    <!-- -->
 
     <!-- -->
 
@@ -617,8 +687,12 @@ As Hieronymus proceeded to dig up the entire clearing in search of ptomous[[5]](
 
     <!-- -->
 
+    <!-- -->
+
 - Did the bunqle not mention that you have to say its name everytime you use it?
 
+
+<!-- -->
 
 <!-- -->
 
@@ -632,6 +706,8 @@ As Hieronymus proceeded to dig up the entire clearing in search of ptomous[[5]](
 
     <!-- -->
 
+
+<!-- -->
 
 <!-- -->
 
@@ -665,6 +741,8 @@ As Hieronymus proceeded to dig up the entire clearing in search of ptomous[[5]](
 
     <!-- -->
 
+    <!-- -->
+
 - once the bag is full, H tilts his head back, and drinks thirstily by wringing out the cloth.
 
 - T: oh boy, that's really gonna eliminate any kind of boundary you have maintained.
@@ -673,6 +751,8 @@ As Hieronymus proceeded to dig up the entire clearing in search of ptomous[[5]](
 
 - the oils lands on people -- soothing cosmetic treatment. all get 1 temp HP
 
+
+<!-- -->
 
 <!-- -->
 
@@ -690,6 +770,8 @@ As Hieronymus proceeded to dig up the entire clearing in search of ptomous[[5]](
 
 <!-- -->
 
+<!-- -->
+
 ## northwards (late morning of day 9)
 
 - cross the kashte'a bridge and proceed north, hugging the shoreliness
@@ -697,6 +779,8 @@ As Hieronymus proceeded to dig up the entire clearing in search of ptomous[[5]](
 - people are merchants, farmers, craftspeople, traveling scholars, acolytes, … "soldiers"?
 - [describing temples of xanthuc]
 - [describe hamlet south of grihmies]
+
+<!-- -->
 
 <!-- -->
 
@@ -761,6 +845,8 @@ As Hieronymus proceeded to dig up the entire clearing in search of ptomous[[5]](
 
 <!-- -->
 
+<!-- -->
+
 ## tear extraction
 
 - [both reach up to touch on temples]
@@ -794,6 +880,8 @@ As Hieronymus proceeded to dig up the entire clearing in search of ptomous[[5]](
 
 <!-- -->
 
+<!-- -->
+
 ## getting directions
 
 - Mandy: we are at your informational service.
@@ -818,6 +906,10 @@ As Hieronymus proceeded to dig up the entire clearing in search of ptomous[[5]](
 
     <!-- -->
 
+    <!-- -->
+
+
+<!-- -->
 
 <!-- -->
 
@@ -854,6 +946,8 @@ As Hieronymus proceeded to dig up the entire clearing in search of ptomous[[5]](
 
     <!-- -->
 
+    <!-- -->
+
 - Ian: really getting into the corners of this world
 
 - Hiero: where could a fellow findi a nice glass of poison and bed of nails to sleep on around here?
@@ -884,6 +978,8 @@ As Hieronymus proceeded to dig up the entire clearing in search of ptomous[[5]](
 
 - Carlos buys 12, shoves into satchel. (these don't expire after 24 hours)
 
+
+<!-- -->
 
 <!-- -->
 

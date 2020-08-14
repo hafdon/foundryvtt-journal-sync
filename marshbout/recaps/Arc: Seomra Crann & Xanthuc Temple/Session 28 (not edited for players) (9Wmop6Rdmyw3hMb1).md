@@ -48,6 +48,8 @@ downdraft? should have had angel edge flick () more for jenny — i’ not sure 
 
     <!-- -->
 
+    <!-- -->
+
 - Flick: If i let you escape without revealing your position to the Queen, could we meet up later and chat about Tantegorisch and defending myself against him?
 
 - Rovine: You certainly wouldn’t be “letting” me. I’d be leaving … strategically … on my own.
@@ -89,6 +91,8 @@ downdraft? should have had angel edge flick () more for jenny — i’ not sure 
     - Drav: I don’t feel too bad throwing a pot-shot at them then
     - Drav: is there anything elemental that they are resistant to ?
     - [Drav: nat 1 on INSIGHT: they are vulnerable to necrotic damage?]
+
+    <!-- -->
 
     <!-- -->
 
@@ -173,6 +177,8 @@ downdraft? should have had angel edge flick () more for jenny — i’ not sure 
 
 <!-- -->
 
+<!-- -->
+
 Angels: Queen! we will avenge your death, temporary as it may be! Until the next rulers can step up and revitalize you.
 
 - FLick: da fuq?
@@ -189,10 +195,14 @@ Angels: Queen! we will avenge your death, temporary as it may be! Until the next
 
     <!-- -->
 
+    <!-- -->
+
 - Orange Mist? casts light on the stone tile, and Bulgarius disappears
 
     - should have let anyone roll arcana ?
     - it’s been banished to another plane.
+
+    <!-- -->
 
     <!-- -->
 
@@ -210,6 +220,8 @@ Angels: Queen! we will avenge your death, temporary as it may be! Until the next
 
     <!-- -->
 
+    <!-- -->
+
 - Drav:
 
 - Rovine: “do you need help getting your little dwarf feet up into the window. let me help you, teddy bear” — tell that elf this is part of my strategy to help the little ones get inside.
@@ -222,8 +234,12 @@ Angels: Queen! we will avenge your death, temporary as it may be! Until the next
 
     <!-- -->
 
+    <!-- -->
+
 - ocean spray; sierra mist
 
+
+<!-- -->
 
 <!-- -->
 
@@ -245,6 +261,10 @@ orange mists’s natural 1 — fried her wings; and she can’t fly anymore
 
     <!-- -->
 
+    <!-- -->
+
+
+<!-- -->
 
 <!-- -->
 
@@ -254,6 +274,8 @@ Carlos requests a boost from Rovine: “i need to go after my squishy friend”
 
 - Rovine: please don’t attempt to remove my battle chaps. do you need a boost? i can see i’m an essential contributor to this battle.
 - the kobolds aren’t interested in attacking Carlos — covered in hair. they are trying to protect themselves from the angels. (should i have required an insight check?)
+
+<!-- -->
 
 <!-- -->
 
@@ -281,6 +303,8 @@ Heiro can see Rovine through the window. “we could really use your help about 
 
     <!-- -->
 
+    <!-- -->
+
 - Flick: run towards me!
 
     - silver wheat slashes at JL ineffectually as he disengages and runs towards flick
@@ -288,6 +312,8 @@ Heiro can see Rovine through the window. “we could really use your help about 
     - Angel: impossible! a declination is inherently disrespectful.
     - then JL turns back and fires. — critically fails.
     - SW deflects arrow back into stairs; the entrance to stairs crumbles and is blocked.
+
+    <!-- -->
 
     <!-- -->
 
@@ -305,6 +331,8 @@ Heiro can see Rovine through the window. “we could really use your help about 
 
     <!-- -->
 
+    <!-- -->
+
 - F checks in with JL. didn’t i tell you about that time i was in a horse-house in whatever city that was
 
 - F takes cover behind column. JL feels cool wind rush up and carry her off.
@@ -317,6 +345,10 @@ Heiro can see Rovine through the window. “we could really use your help about 
 
     <!-- -->
 
+    <!-- -->
+
+
+<!-- -->
 
 <!-- -->
 
@@ -334,9 +366,13 @@ title: ? - “the object of their swordly attentions”
 
     <!-- -->
 
+    <!-- -->
+
 - all the other kobolds start sniffing and moving closer to hieronymus, and pawing at his open wounds.
 
     - H takes 5 points of eating damage and fails a death saving throw.
+
+    <!-- -->
 
     <!-- -->
 
@@ -357,6 +393,8 @@ title: ? - “the object of their swordly attentions”
 
     <!-- -->
 
+    <!-- -->
+
 - (wall): ignore me at your peril. this involves all of us.
 
 - Carlos taps on its face. these rock-like claws come and swipe at you; it looks like they are trying to pull you in with it. Skip nimbly out of the way.
@@ -369,11 +407,15 @@ title: ? - “the object of their swordly attentions”
 
     <!-- -->
 
+    <!-- -->
+
 - Drav tries to “killing dissuade them”
 
 - shatter with sculpt spell.
 
     - under the floor of temple; circle opens up in the floor; crushes all the kobolds. hiero’s body left on a perfect pillar holding him up. underneath, you’ve exposed some sort of hidden chamber.
+
+    <!-- -->
 
     <!-- -->
 
@@ -393,9 +435,13 @@ title: ? - “the object of their swordly attentions”
 
     <!-- -->
 
+    <!-- -->
+
 - Carlos pats XANTHU on the head some more
 
     - “this is a matter of some urgency! i will bring you in here with he, and then you’ll be forced to help solve it”
+
+    <!-- -->
 
     <!-- -->
 
@@ -415,9 +461,13 @@ title: ? - “the object of their swordly attentions”
 
     <!-- -->
 
+    <!-- -->
+
 - Flick : amazing how much aplobm she has
 
     - a new family will emerge and we will again defend the temple for ritual purposes.
+
+    <!-- -->
 
     <!-- -->
 
@@ -431,11 +481,15 @@ title: ? - “the object of their swordly attentions”
 
     <!-- -->
 
+    <!-- -->
+
 - flick’s in love. and then fires at her. after she commits to getting them out. flick misses.
 
 - OM: the power of xanthu still allows me to reject your claim to this place.
 
     - she now demonstrates a renewed vitality; as slugg slashes at OM, she dodges both of them with alacrity. — I will be able to hold you off in the end!
+
+    <!-- -->
 
     <!-- -->
 
@@ -453,6 +507,8 @@ title: ? - “the object of their swordly attentions”
 
     <!-- -->
 
+    <!-- -->
+
 - Slugg: nice work. nice missile trick. it reminds me: i knew a kobold named Myssultriq. a real upstanding citizen. i think he was mayor of kobold town for a while. i never visited.
 
 - Flick: i want to head down into the chamber.
@@ -463,7 +519,11 @@ title: ? - “the object of their swordly attentions”
 
     <!-- -->
 
+    <!-- -->
+
     - JL eats one of them now.
+
+    <!-- -->
 
     <!-- -->
 
@@ -481,8 +541,12 @@ title: ? - “the object of their swordly attentions”
 
     <!-- -->
 
+    <!-- -->
+
 - Flick feeds tail back in through hole. palpable hole / rim to portal. as last of tail goes in, flick pinches the boundary closed (or is that what did it?) — but slowly.
 
+
+<!-- -->
 
 <!-- -->
 
@@ -502,11 +566,15 @@ XANTHU: help me get out of here. now that the angels are gone, it’s even more 
 
     <!-- -->
 
+    <!-- -->
+
 - Drav peaks over edge of hole
 
     - see the rubble and kobold bodies. faint sound of blood dripping out of them. hiero is still stuck on the pillar.
     - room extends in either direction, at least to each side fo the temple. trouble seeing to the right, but can see to the left, and looks like there might be holes in the ground but too dark to tell.
     - drav looks around first floor for hidden staircase.
+
+    <!-- -->
 
     <!-- -->
 
@@ -523,6 +591,10 @@ XANTHU: help me get out of here. now that the angels are gone, it’s even more 
 
     <!-- -->
 
+    <!-- -->
+
+
+<!-- -->
 
 <!-- -->
 
@@ -533,6 +605,8 @@ Drav discovers another secret stairway in the other corner (lower right?)
 ROvine walks further into the room, : my unamed minion, look at you! you’ve proven yourself as Slugg, the chieftain, i bestow upon you my boon! (improvised little ceremony; licks his hand and brushes down balgarius’s fur) — Keep up the good work!! then Rovine takes a practical magic smoke bomb and back out the room. — Slugg: ahhhhh my lord raxivort!!
 
 - Rovine winks at Drav on the way out.
+
+<!-- -->
 
 <!-- -->
 
