@@ -65,7 +65,11 @@ Startrella: Yeah like if you dig a hole and fill it with water and place your cl
 
 Flick: [Insight 13: if flick can create a meditative environment or pull her into the ethereal place; something to provide a sensory deprivation environment]. (Flick walks over; )
 
-[…]
+Flick invites Startrella to look at her eyes, and repeat after me, and she starts chanting child-level mental exercises, but which starts off as demonic, almost rote, droning, in your head, that helps you get into the trance. like mantras. [wisdom save with advantage nat 20] . immediately, Startrella -- "i guess you haven't noticed but I never do blink--" her eyes turn into starmotes, and she's trancing. merely hearing the words is enough. flick sees that she sits back on an invisible papasan chair and out of her bellybutton area emerges a string of tiny star motes and curls up in front of you. flick's voice is also coming out of startrella's mouth, like aphelia, and she's repeating what you're saying. "are these rocks? yes these are teh stimulants you asked about. this experience is highly pleasurable for me." Flick severs the connection immediately. Flick goes up and tips the drugs into Jean-luc's hand (the sort of grift jean-luc would have run before). Udrek is distracted by equations passing over his eye-orbs.  
+
+Jean-Luc: I did get some of this fizzlecoke. 
+
+[...]
 
 Vengeance: It's not me, it's my sentient staff that likes to pet … not ogres, but … your wonderful pet. I apologize for my staff's behavior. (His feet begin scrapingi a hole in the ground.)<br>
 
