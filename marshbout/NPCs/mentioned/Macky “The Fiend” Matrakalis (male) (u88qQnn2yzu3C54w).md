@@ -6,6 +6,8 @@
 
 <!-- -->
 
+<!-- -->
+
 ## his demise
 
 - Vengeance (if i could find the Fiend I could get to her. but it’s a shame that he’s dead.)
@@ -16,6 +18,8 @@
 
 - \- Star: yeah some people say that everytime you breathe in a little bit of ash, from your stogie, that you’re breathing in the Fiend. and i love that view, that he’s impeding my breathing a little bit and could one day cause my death through the growth of cancerous flesh. it’s a really great thing to look at things. and what you say about the world being small, this planet for sure is really small.
 
+
+<!-- -->
 
 <!-- -->
 

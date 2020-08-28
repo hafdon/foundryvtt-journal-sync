@@ -57,6 +57,8 @@ Day 8?
 
     <!-- -->
 
+    <!-- -->
+
 - C: to G: does H speak?
 
 - G: when H is with me, she obeys
@@ -132,6 +134,8 @@ Day 8?
 
     <!-- -->
 
+    <!-- -->
+
 - Flick: so am i alone on this one?
 
 - Jean-Luc: i'm not sure this should be considered "pre-emptive"
@@ -155,11 +159,15 @@ Day 8?
 
     <!-- -->
 
+    <!-- -->
+
 - paros casts haste on fez.
 
 - then paros tries to meditate technique to relieve headache (wisdom perception check) : [24] after using inspiration.
 
     - feel like he could harness the spot to do something for him. highlights each of the people in vision, and projects images (evil eye: sleepy, paralyzed, fearful, poisoned) -- spot on forehead is no longer there, and no more visions.
+
+    <!-- -->
 
     <!-- -->
 
@@ -181,6 +189,8 @@ Day 8?
 
     <!-- -->
 
+    <!-- -->
+
 - Fez tells them that gegathon --- has connection to Tantegorisch. comunicated to fez by another power. if fez spoke, could T hear him? Fez doesn't know -- he'd have to make a warcana check .
 
 - Fez: channel divinity to turn faithless.
@@ -193,11 +203,15 @@ Day 8?
 
     <!-- -->
 
+    <!-- -->
+
 - Fez holy symbol: thing he washed up on shore with
 
     - fez just burbles some underwater words
     - flick: what a beautiful language! so subtle!
     - G: you little bastard, i see what you are now. i'm surprised even those incompetent druids let you get in here.
+
+    <!-- -->
 
     <!-- -->
 
@@ -226,9 +240,13 @@ Day 8?
 
     <!-- -->
 
+    <!-- -->
+
 - Jean-Luc can now move under own initiative; since exuviae turned into hengest.
 
     - tries to meditate. sees inferno of flame; silhouettes behind that; looks like looking at things through a blazing fire.
+
+    <!-- -->
 
     <!-- -->
 
@@ -248,6 +266,8 @@ Day 8?
 
     <!-- -->
 
+    <!-- -->
+
 - C: [9] fails. so casts lesser restoration to cure blindness. - C: when i think about fez.
 
 - title: "we'll always have hengest"
@@ -255,6 +275,8 @@ Day 8?
 - F: did my hunter's mark wink out? ADV on perception and survival checks.
 
     - tries portal .. sense ? activate? no idea where they are. dm: not on this plane anymore.
+
+    <!-- -->
 
     <!-- -->
 
@@ -278,8 +300,12 @@ Day 8?
 
     <!-- -->
 
+    <!-- -->
+
 - dm: jean-luc wont' be able to see what paros does. Jean-Luc: religion check. something about paros's eye feels not right to him.
 
+
+<!-- -->
 
 <!-- -->
 
@@ -300,9 +326,13 @@ Day 8?
 
 <!-- -->
 
+<!-- -->
+
 flick: 18 to hit. 23 bludgeoninng damage. (half flick's health - stinger - doesn't poison him) dives under the ground and up to fez fez: tries to pull carlos off (dwarf catching: 15 to dwarf catch)
 
 - grabs ahold of carlos, and wrenches him off the creature [ :journal stinger, dripping with flick's flesh, retracts back into the worm] carlos is built for getting dragged through the earth fez: like the most dwarf thing ever [ :journal: should have given carlos some info about the worm digging / rocks]
+
+<!-- -->
 
 <!-- -->
 
@@ -315,6 +345,8 @@ the worm has gone completely underground. discussing how far outside the arena t
 scrobs: i can't believe i'm seeing old meenow; old meenow lives in the flipped world
 
 - i've certainly never seen her before.
+
+<!-- -->
 
 <!-- -->
 
@@ -335,12 +367,16 @@ while i'm in the bathroom: they want to deal with the worm; and think they will 
 
 <!-- -->
 
+<!-- -->
+
 drav casts erupting earth. on the tunnel. 20 feet down (Because it's visible). "she who heard it, dirt it"
 
 - earth erupts in a column, and you can feel this entire area, starts to crack and buckle, and it all collapses into a huge hole, that's … big. (the size of the wrestling pit). carlos: good thing no one was standing there. - starting at the orange pool there are gigantic staircases that go down into the earth drav :what?! carlos: what about the geniis on the island? dm: only one of them is a genii, and that's because it's part genii. drav: how deep is the whole? dm: i describe the cavern.
 
     <!-- -->
 
+
+<!-- -->
 
 <!-- -->
 
@@ -379,9 +415,13 @@ carlos: sounds likek a toilet dm: yes, it's an infinitely deep toilet with two b
 
 <!-- -->
 
+<!-- -->
+
 ian: how was the worm moving freely, under the arena, if there wasn't earth for him to move through
 
 - or it didn't know …
+
+<!-- -->
 
 <!-- -->
 
@@ -398,6 +438,8 @@ ian: how was the worm moving freely, under the arena, if there wasn't earth for 
 - gegathon ?
 - flick detects him on ethereal plane; just cooling his heals until turn effect ends.
 - jean-luc, no longer blind, climbs to the top of a rock.
+
+<!-- -->
 
 <!-- -->
 
@@ -439,6 +481,8 @@ gegathon starts climbing up out of the tunnel. (cantering up the stairs)
 
     <!-- -->
 
+    <!-- -->
+
 - actually pick up with JL -- G: there's a golden-haired little favorite boy over there; JL shrugs and fires the arrow
 
 - JL hits
@@ -454,10 +498,14 @@ gegathon starts climbing up out of the tunnel. (cantering up the stairs)
 
     <!-- -->
 
+    <!-- -->
+
 - G: there's more where I came from too, it's called: all of hell Fez: do you even know flick's name?
 
 - G: hall does Flick: now he does Fez: who is hall? G: HALL. he runs a theater down on 1st and Main.
 
+
+<!-- -->
 
 <!-- -->
 
@@ -493,12 +541,16 @@ beautiful will'o'the'wisp lights; miraculously gorgeous flame-steed; feel compel
 
     <!-- -->
 
+    <!-- -->
+
 - G is too quick and rides out of the AOE
 
     - hoists a fire lance and tries to joust on flick, flick gets burnt and knocked unconscious.
     - dismounts from Hengest and tries to go for the paladin;
     - fez sees that his lance shortens into a Sword. s-word.
     - hengest rides back over there. (hengest is doing all the movement)
+
+    <!-- -->
 
     <!-- -->
 
@@ -523,6 +575,10 @@ beautiful will'o'the'wisp lights; miraculously gorgeous flame-steed; feel compel
 
     <!-- -->
 
+    <!-- -->
+
+
+<!-- -->
 
 <!-- -->
 
@@ -534,6 +590,8 @@ jeanluc sees that he doesn't have genitals, and no armor in that area carlos: ho
 
 - only move 15 feet a turn;
 - superior persuasion (can poison opponents)
+
+<!-- -->
 
 <!-- -->
 

@@ -10,8 +10,12 @@
 
     <!-- -->
 
+    <!-- -->
+
 - Charles II of Spain died childless in 1700, but he left no children. Thus the discussion started who had the right to own the lands he left. So Udrek was a compromise between x and y
 
+
+<!-- -->
 
 <!-- -->
 
@@ -26,6 +30,8 @@ The huge hobgoblin looks like it’s been carved from wood, and has terrifying w
 ## habits
 
 - does not drink (or, by extension, use depressants)
+
+<!-- -->
 
 <!-- -->
 

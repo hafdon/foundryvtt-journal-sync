@@ -56,6 +56,8 @@ curculio: riding or eating: fez: mostly riding; it does eat things tho
 
 <!-- -->
 
+<!-- -->
+
 halfling is a language, and written infrequently, and fez speaks it dm: language is just the bottom half of the alphabet “bowls and sticks: a confusing language for a charming people; an abecedarium or alphabetical primer” published by doodle’s toodle’s Doodril Frogwart’s juvenile imprint. has these suspicious clinics that pop up . Doodril Frogwarts secular healing clinic in marshbout.
 
 paros already picked up the secular ministrations
@@ -63,6 +65,8 @@ paros already picked up the secular ministrations
 fez: is he really prolific? dm: he’s pro-lithic. drav has read some of his rock-based essays
 
 - doodril is a [rock symbol in shape of a g] + nome . his letters are shorter than halfling letters.
+
+<!-- -->
 
 <!-- -->
 
@@ -85,6 +89,8 @@ drav: curculio, do you have any idea how to find this lake?
 curculio: it’s south of Thubudder forest, and i was coming from up north; if you go too far south you hit the coast. i guess we can find someone who knows once we get into that area drav: the lake is not invisible? curculio: yeah, you can see it, but it can trap you within its borders, or move around,
 
 - the lake is “fair” — a knowledge of judicial rationing. it’s fair skinned and around an amusement park (near lake were strange, overly-playful flower children; little animals made out of flowers) if we can find them, we might be able to locate the lake paros: i’ve heard about flower people fez: the flowers are the children’s money. in our world, (halflings) flowers equal dollars paros: there’s a serious threat on the horizon to the FP C: why exhibiting such levity? P: well i heard about it through alternate channels fez: (whispers) “the grapevine” C > insight check.
+
+<!-- -->
 
 <!-- -->
 
@@ -118,6 +124,8 @@ they start walking in the forest see a ghostly presence in the forest 3-4 feet t
 
 <!-- -->
 
+<!-- -->
+
 f having trouble telling difference between ghost and moderately sized spiderwebs outside they get shit stealth making quite a bit of noise as they head over looks like it’s trapped in a rectangular space like a roomba that’s moving rooms / cycles through fixed boundaries
 
 ghost: how did you get in here? in this maze with me? i’ve been trapped in this gigantic hedge maze, but i can’t do anything to them C: are you a revenant? do we have to solve a problem? ghost: no, i’m trapped here for some reason. fez: no… ghost: a revenant wants to complete its goal in life ghost: that voice sounds so familiar to me fez: juna?! juna: fez, i’m really getting put through the ringer here fez: what happened at the end? june: the baron was keeping me coherent, and i dissipated, and my understanding is now totally upturned. my spirit was going somewhere, and on the way i was captured and put into this space, an infinite maze. i can’t tell how long i’ve been here.
@@ -129,6 +137,8 @@ fez: we have to plan an aMAZEing rescue juna: i haven’t seen anyone else; as a
 - a little less meaty than i’d expect
 - turtle bath stew? through the turtle out with the bathwater fez gets back C: using turtle maybe as a catalyst for a stew fez: i haven’t had fox fur stew — favored among halflings
 - she claw-slaps fez — give him a clawmark paros: we could make a turtle-fox-bath stew
+
+<!-- -->
 
 <!-- -->
 
@@ -172,9 +182,13 @@ rolling initiative T: “names have no power. mortals like you call me ‘the tw
 
 <!-- -->
 
+<!-- -->
+
 T: soon you’re going ot be so confused by my talking … it’ll be like you’re in a maze already fez: [gets turtle to come over and he hops on it] T: what a beautiful riding turtle! (gets hit) I take it back. your turtle sucks. i hope somebody eats him. <<can fez="" double="" dice="" on="" divine="" smite?="" -="" yes="">&gt; T: stop filling me up with myself (whip). ah, the radiant damage! P: i get it, you don’t get tongue-tied, you’re a wood wind T: i’m not sure how i feel about the wind. as to reeds: they’re ok, they are vegetation. some of my best friends are reeds. P: i know all the best reads T: like, “i like that book”. P: obviously t: so not the reeds by a riverbank that people whisper their secrets into. i know your secrets, paros P: i’m the one that’s literally called “power-os” T: i didn’t call you that, and it’s more of a self-appointed moniker</can>
 
 - i keep the bark on myself
+
+<!-- -->
 
 <!-- -->
 
@@ -192,11 +206,15 @@ hands that are made of darkness reach through space and time to open a sphere of
 
 <!-- -->
 
+<!-- -->
+
 << mick talks about PDQBOx forever>>
 
 curculio starts flying; things outside the sphere can’t see things inside the sphere
 
 - “im gonna fly” P: backs up at the end of his turn are they talking to each other?
+
+<!-- -->
 
 <!-- -->
 
@@ -233,6 +251,8 @@ f: whips for 0 damage t: give me the whip (my body) and the turtle
 
 <!-- -->
 
+<!-- -->
+
 f: finds self in labyrinthine demiplane. maze runner trailer. birds-eye view. can use action to attempt to escape. same INT check. t: you’ll see my farm after all. pleae give it 5 stars f: gonna be 1 star t: i set it up so you can see way more stars than that on the demiplane f: it’s complicated . just listen for me to yelp t: did you say you’re a little welp ?
 
 curculio has throwing daggers on a bandolier throws one — pierces should and passes through without really injuring T: t: the mage armor is a gift from my patron that allows be to brush aside attempts to bleach my tips f: he has a patreon? t: oh, tell me more! f … t: what is a month …. 13 28-day month f: announcing candidacy for world emperor. one-issue. do this t: any candidacies announced in the demiplane are restricted to the dmeiplane f: ok t: i can award it to you now f: i’m subpoena’ing you t: ? f: has to testify before the council of the fezziwig demiplane t: good luck finding me with a process server f: by our rules and regulations, merely saying “good luck finding me with a process server” is evidence of being served, . t: i don’t remember saying that! p: i do t: shut up! t: god damnit, baphomet’s gonna be on my ass about this. he told me not to get myself involved in any more lawsuits. P: detect thgouhts t: {{gotta get these guys in mazes. —overwhelming urge to consume; starting to figure out how to pull fez and turtle’s essence out—}} P {{where is he in the hierarchy. what does he care about getting done. what’s his role. in the org chart. }} f: aren’t all demonic things intensely bureaucratic p: {{can also now detect juna merrigold a kernel within tusternoof}} baphomet is swiping right on requests to become his lieutenant BATH VOMIT t: he’s gonna hate that way more than i hate ‘tosser noob’ . — better watch out, you might have to deal with the big man p: i’m gonna turn you into a salad t: pretty good burn.
@@ -241,6 +261,8 @@ Curculio motions to Paros when he does drum sting with a flute. i’d like to st
 
 - wants to see if there’s a way to communicate between the planes DM: tusternoof is kind of like a router. LAN but endpoints can’t communicate with each other. P: T is a switch and a firewall with client isolation. they can somehow communicate out, though. f: we have to hack the firmware p: some of the devices have vulnerabilities that you can discover through port-knocking f: knocking on your back door
 - was creeping around the back stair F: fails to get out of the maze t: reaches out arms which become firehose of vegetation
+
+<!-- -->
 
 <!-- -->
 
@@ -258,9 +280,13 @@ Curculio motions to Paros when he does drum sting with a flute. i’d like to st
 
 <!-- -->
 
+<!-- -->
+
 drav misses with a firebolt t: i calls em like i sees em p: t: but you do respect me a little bit? p: in so far as i’m attacking you and not ignoring you t: you’re right — hurting is always better than leaving people alone to do their own thing paros lights him up, puts him in a sack, and tosses the ashes over his shoulder to get rid of the sins from his past life p: does baphomet have an eye ? dm: he has a bulls head
 
 - tusternoof burns up and into a heap of ashes DM: don’t feel the intelligent thoughts of juna merrigold; as you toss the ashes over your shoulder they briefly form the image of a bulls skull before they fall f: i assume that’s the manifesetation of how the demon anchored himself to the plane. the usual skull in the middle of a pentagram. c: how did we get involved with this guy? p: there was a friend of ours. don’t know what happened.
+
+<!-- -->
 
 <!-- -->
 
@@ -273,6 +299,8 @@ f: feels liquid dropping on him someone’s cooling unit in a rotted out tree ab
 curculio to drav: would you accompany me south to look for wodden?
 
 - do you know any way to implement that trick that tusternoof mentioned for finding/not finding the lake p: sounds like insanity d: so does that mean you’re volunteering
+
+<!-- -->
 
 <!-- -->
 
@@ -320,6 +348,10 @@ paros wants to heal from a distance but only has a healing potion
 
     <!-- -->
 
+    <!-- -->
+
+
+<!-- -->
 
 <!-- -->
 
@@ -340,11 +372,15 @@ the wards that the townsfolk set up to banish tantegorish might be what you need
 
 <!-- -->
 
+<!-- -->
+
 the one on your shoulder’s name is Ashtai drav: does ashtai think this is currently happening ashtai is shaken up, but they got the same images that paros did. paros wants to know if he’s self-aware enough to tell that from vision and himself
 
 insight into himself: 12
 
 - skeptical of being skeptical fez: that happens to the best of us. not me, but the best of us
+
+<!-- -->
 
 <!-- -->
 

@@ -22,6 +22,8 @@ depart simurgh's quarters, taken to eth eliothai by the hedge — the vision —
 
 <!-- -->
 
+<!-- -->
+
 ## recap (separated into own audio file)
 
 - Carlos (Jake) doesn't like the peryton quest (they don't have any leads) - likes the flower folk
@@ -34,8 +36,12 @@ depart simurgh's quarters, taken to eth eliothai by the hedge — the vision —
 
     <!-- -->
 
+    <!-- -->
+
 - Jean-Luc: are we really thinking about not helping the gnolls?
 
+
+<!-- -->
 
 <!-- -->
 
@@ -66,6 +72,8 @@ depart simurgh's quarters, taken to eth eliothai by the hedge — the vision —
 
     <!-- -->
 
+    <!-- -->
+
 - ended up in cavern, through a slightly open door. see: - female half elf, pricked ears, very pointy (surgery?), deep brown complexion, black hair, center part bob, red riding pants, padded leather riding vest over white tunit.
 
     - room: dark, but illuminated by red phosphorescent mushrooms lining upper recesses of cavern
@@ -78,10 +86,14 @@ depart simurgh's quarters, taken to eth eliothai by the hedge — the vision —
 
     <!-- -->
 
+    <!-- -->
+
 - [fez worried about mushrooms] - asks about where they fit into lifecyle
 
     - prep stuff like this
     - suddenly IN the cavern like whipped there. was it a portal ? felt a little weird.
+
+    <!-- -->
 
     <!-- -->
 
@@ -108,6 +120,8 @@ depart simurgh's quarters, taken to eth eliothai by the hedge — the vision —
 - P: [asks bush for snack]: - plate mushrooms stack out and on top of one is a tasty little tuber
 
     - p [appropriately comfortaed]
+
+    <!-- -->
 
     <!-- -->
 
@@ -150,6 +164,8 @@ depart simurgh's quarters, taken to eth eliothai by the hedge — the vision —
 
     <!-- -->
 
+    <!-- -->
+
 - EE: only one question, yes! a limited pool of tree magic!
 
 - EE: if your friend hasn't eaten that tuber, it can help me determine the best course of action for us as a group.
@@ -169,11 +185,15 @@ depart simurgh's quarters, taken to eth eliothai by the hedge — the vision —
 
 <!-- -->
 
+<!-- -->
+
 ## the vision
 
 - EE: Chad, you may begin! [chad starts flapping wings; forces fire into a tunnel into EE's body] - EE grows to where she has a form with angelic fire wings, fed by the intense flame. flames take at first the form of the peryton; can see clearly: looks like it has the body of an eagle but the head of a stag with gigantic antlers that are dripping with grey velvet; at the tips are intimidating points, and its face is enraged: gaunt and full of writhing forms under the skin; eyes are red and glowing.
 
     - the image recedes and you see the image of tusternoof: a tree with the face of a deer's skull. after that arises the figure of a heavily muscled man with the head of a bull, but stag's antlers. and he grows more and more enormous until filling the entire cavern, and then the fire goes out.
+
+    <!-- -->
 
     <!-- -->
 
@@ -208,6 +228,8 @@ depart simurgh's quarters, taken to eth eliothai by the hedge — the vision —
 
 <!-- -->
 
+<!-- -->
+
 ## (back-up) to talk to field workers
 
 - Beluar and Kenduel.
@@ -223,6 +245,8 @@ depart simurgh's quarters, taken to eth eliothai by the hedge — the vision —
 - Beluar (She): hello! - really got to practice gifting-- instead of 'such an intimidating way about you'
 
     - uniquely tall elf in tailored blue vest and jodpurs.
+
+    <!-- -->
 
     <!-- -->
 
@@ -259,6 +283,8 @@ depart simurgh's quarters, taken to eth eliothai by the hedge — the vision —
 
     <!-- -->
 
+    <!-- -->
+
 - B: caution: we did see some (prejudiced?) cultists lurking around the area, started embedding themselves in the tip. quite frightening, and they didn't harm us, but they could barely limp themselves to their next destination. the crystals are interesting. formations that FF live within -- symbiosis with the FF trees to create microenvironments.
 
 - Drav: you've discovered a lot.
@@ -267,6 +293,8 @@ depart simurgh's quarters, taken to eth eliothai by the hedge — the vision —
 
     - you may even see a few of our number down there. a braver few. a human in the area: Arlan Lubbock. he's a cartographer from further NE, and he came down in particular to study this. and Mogesh, one of the ancient earth spirits under there.
     - he'd love to talk to visitors; and likes to keep secret a pocket mansion. puts off appearance of living humbly.
+
+    <!-- -->
 
     <!-- -->
 
@@ -306,6 +334,8 @@ depart simurgh's quarters, taken to eth eliothai by the hedge — the vision —
 
     <!-- -->
 
+    <!-- -->
+
 - Fez takes them with great care. secures them in his pack to return. - should i have had him make a religion check? for morals ?
 
     <!-- -->
@@ -314,6 +344,8 @@ depart simurgh's quarters, taken to eth eliothai by the hedge — the vision —
 
     <!-- -->
 
+
+<!-- -->
 
 <!-- -->
 
@@ -345,6 +377,8 @@ depart simurgh's quarters, taken to eth eliothai by the hedge — the vision —
 
     <!-- -->
 
+    <!-- -->
+
 - are there worms?\~!?!?!?!?! i should put in some worms.
 
 - Drav things something is heraldric symbol of half-orc kingdom where ruler was known as Gar Hrothgar (which is a real historical kingdom)
@@ -359,11 +393,15 @@ depart simurgh's quarters, taken to eth eliothai by the hedge — the vision —
 
     <!-- -->
 
+    <!-- -->
+
 - H has run ahead, so has 1 level of exhaustion.
 
 - Paros to Carlos: who sucks at religion now! (suck my critical, Carlos) (now everyone can tell how smart I am about religion!)
 
     - Carlos chooses not to respond. [RELIGION 17] praised by Aulë for having admirable restraint.
+
+    <!-- -->
 
     <!-- -->
 
@@ -387,11 +425,15 @@ depart simurgh's quarters, taken to eth eliothai by the hedge — the vision —
 
     <!-- -->
 
+    <!-- -->
+
 - H: sounded like Bison meat.
 
 - Drav: 'human' was also mentioned.
 
     - Lots of things crossed with eagles.
+
+    <!-- -->
 
     <!-- -->
 
@@ -405,6 +447,8 @@ depart simurgh's quarters, taken to eth eliothai by the hedge — the vision —
 
 - Jake: I almost thought we would get a sidekick.
 
+
+<!-- -->
 
 <!-- -->
 
@@ -440,6 +484,8 @@ depart simurgh's quarters, taken to eth eliothai by the hedge — the vision —
 
     <!-- -->
 
+    <!-- -->
+
 - 1:05:03:914
 
 - H rolling around in blood and meat and entrails and throwing it into the air joyfully. picks up a good sized hunk and shoves it into JL's face: "welcome to meat world you son of a bitch - should have asked: how does this fit into H's character?
@@ -459,11 +505,15 @@ depart simurgh's quarters, taken to eth eliothai by the hedge — the vision —
 
 <!-- -->
 
+<!-- -->
+
 ### noises
 
 - Carlos hears noises that are coming from what seem like a passage underground. - shouts: "Who goes there?"
 
     - noises stop
+
+    <!-- -->
 
     <!-- -->
 
@@ -479,6 +529,8 @@ depart simurgh's quarters, taken to eth eliothai by the hedge — the vision —
 
     - presses foot down, sees strange glyph, takes 14 points of thunder damage that rockets her up and away.
     - been 10 minutes, so don't hear anything from behind stone. glyph probably has to be cast again to work. but definitely let people know about their presence.
+
+    <!-- -->
 
     <!-- -->
 
@@ -530,12 +582,16 @@ depart simurgh's quarters, taken to eth eliothai by the hedge — the vision —
 
     <!-- -->
 
+    <!-- -->
+
 - another set of stairs that leads upwards. to the other mound.
 
 - still not sure when to give people a forking point or just narrate them getting somewhere without a problem. (i guess -- if I don't have anything planned, then don't give them a choice)
 
 - Perception check -- still learning when to do these.
 
+
+<!-- -->
 
 <!-- -->
 
@@ -576,9 +632,13 @@ depart simurgh's quarters, taken to eth eliothai by the hedge — the vision —
 
     <!-- -->
 
+    <!-- -->
+
 - Paros: it's in the oni's nature to eat meat, so don't be too judgmental. we're hear to get him back on track. - H pours poison onto meat he's planning on giving to Rovine
 
     - JL: shouldn't he make a check to see if he knows which poison to give him?
+
+    <!-- -->
 
     <!-- -->
 
@@ -615,6 +675,8 @@ depart simurgh's quarters, taken to eth eliothai by the hedge — the vision —
 
 <!-- -->
 
+<!-- -->
+
 ### into the chamber for real after retreating
 
 - this Oni, joined by a beefy kobold on the back of a creature with hairy john goodman face, red beady eyes, canine mouth, buffalo body. big hump with a mane. kobold is riding it. (how did it get in there??!)
@@ -622,6 +684,8 @@ depart simurgh's quarters, taken to eth eliothai by the hedge — the vision —
 - practice: gifting
 - so i guess kobold's gods have antlers ??
 - kobolds pour out of side chambers
+
+<!-- -->
 
 <!-- -->
 
@@ -645,6 +709,8 @@ depart simurgh's quarters, taken to eth eliothai by the hedge — the vision —
 
     <!-- -->
 
+    <!-- -->
+
 - Paros: they have a lot of cleanup to do.
 
 - i've now resigned myself to eating meat
@@ -660,6 +726,8 @@ depart simurgh's quarters, taken to eth eliothai by the hedge — the vision —
 
     <!-- -->
 
+    <!-- -->
+
 - Paros: while walking through the tunnel, we detected fiends. is raxivort one of those?
 
 - Rovine: no
@@ -667,6 +735,8 @@ depart simurgh's quarters, taken to eth eliothai by the hedge — the vision —
 - Paros: not in a … critical way
 
     - systems of classification are useful sometimes
+
+    <!-- -->
 
     <!-- -->
 
@@ -708,6 +778,8 @@ depart simurgh's quarters, taken to eth eliothai by the hedge — the vision —
 
     <!-- -->
 
+    <!-- -->
+
 - Paros: H runs a little masochistic
 
 - Paros: what are these columns, tho.
@@ -726,8 +798,12 @@ depart simurgh's quarters, taken to eth eliothai by the hedge — the vision —
 
     <!-- -->
 
+    <!-- -->
+
 - room in the back-left corner. picks up a rock of a couple tons, and hops down.
 
+
+<!-- -->
 
 <!-- -->
 
@@ -745,6 +821,8 @@ depart simurgh's quarters, taken to eth eliothai by the hedge — the vision —
 
     - i can masquerade as raxivort and take the sacrifices. it's actually a vort god; through some intercommunication they've taken up with the Raxivort. it's been a long time since dragons have been seen hereabouts.
     - i eat the meat and perform the duties of Raxivort. i assign favoritism to certain members, and disappear. my ability to appear and reappear arbitrarily gives weight to the arbitrainess of their situation.
+
+    <!-- -->
 
     <!-- -->
 
@@ -770,10 +848,14 @@ depart simurgh's quarters, taken to eth eliothai by the hedge — the vision —
 
     <!-- -->
 
+    <!-- -->
+
 - H: what you are doing is reprehensible. when i grew up with my poor fisherman family all we had was religion. for you to use religion to take advantage of these kobolds for your own malign purposes; it's despicable. and i commend you for what you've done. (Jake: it sounded like a carlos speech)
 
     - i should have had a persuasion check
     - you're welcome to the gamey meat in the smokehouse / sacrifitorium
+
+    <!-- -->
 
     <!-- -->
 
@@ -791,11 +873,15 @@ depart simurgh's quarters, taken to eth eliothai by the hedge — the vision —
 
     <!-- -->
 
+    <!-- -->
+
 - H: I love you as the god that you are portraying. as a giant, you seem ok. i will gladly join in the worship of the great raxivort.
 
 - R: don't get in with Raxivort. he's a charlatan, he's barely a god; derives his powers from some loophole
 
     - unless you believe in the anarchy and meaninglessness of the universe
+
+    <!-- -->
 
     <!-- -->
 
@@ -817,6 +903,8 @@ depart simurgh's quarters, taken to eth eliothai by the hedge — the vision —
 
     <!-- -->
 
+    <!-- -->
+
 - H: the vorts would be really upset if they knew what you were doing? your secret is safe with me.
 
     - H: are we looking for a helper?
@@ -827,6 +915,10 @@ depart simurgh's quarters, taken to eth eliothai by the hedge — the vision —
 
     <!-- -->
 
+    <!-- -->
+
+
+<!-- -->
 
 <!-- -->
 

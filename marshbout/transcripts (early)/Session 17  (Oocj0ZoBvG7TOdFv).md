@@ -40,10 +40,14 @@ oni: if i pretended to be Lupenna, there would be a continuity of administration
 
     <!-- -->
 
+    <!-- -->
+
 - carlos: the kids deserve it - isabella: are very tasty. oh, yes, hahaha.
 
     <!-- -->
 
+
+<!-- -->
 
 <!-- -->
 
@@ -166,6 +170,8 @@ joan grabs the ingot out of flick's hand. wrapped around egg, drooling on it. fe
 
     <!-- -->
 
+    <!-- -->
+
 - demon FOMO . fiend FOMO.
 
 - BAPHOMO. (baphomet fear of being left out)
@@ -194,6 +200,8 @@ joan grabs the ingot out of flick's hand. wrapped around egg, drooling on it. fe
 
 - exon backwards is NOXE. SEXAT is texas backwards. clear as oil. unique new york.
 
+
+<!-- -->
 
 <!-- -->
 

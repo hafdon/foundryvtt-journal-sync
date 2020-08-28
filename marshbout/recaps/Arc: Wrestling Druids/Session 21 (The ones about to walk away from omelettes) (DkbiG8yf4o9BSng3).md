@@ -22,6 +22,8 @@ fez: whip, rapier, fish-scale mail drav: dwarf looked like raised by elves; long
 
 <!-- -->
 
+<!-- -->
+
 jean-luc: the crime syndicate that's after you lost you in marshbout, and you've been hiding out in the forest for a week trying to lose the tail.
 
 - JL trying to move quickly without being detected
@@ -45,6 +47,8 @@ jean-luc: the crime syndicate that's after you lost you in marshbout, and you've
 
 <!-- -->
 
+<!-- -->
+
 jean luc: black cape; leather with unnecessary buckles; long blonde hair; 5'o'clock shadow; in woods for a week; rapier ("Lydia") in cursive
 
 jean luc and fez recognize kindred spirits in being over-confident jean luc lives life to the fullest; and fez also doesn't mind
@@ -53,6 +57,8 @@ dk: over-estimate own charmingness
 
 - mushroom capsules made of sinews
 - attacked by dog made partly of plant growth; dispatched it but it knocked him down and briefly passed out and had a vision of huge john-carpenter wolf merged with the thing ravaging an area, ripping heads off bodies; raging out of control; pure cannibalistic hunger and violence (Shogal).
+
+<!-- -->
 
 <!-- -->
 
@@ -88,6 +94,8 @@ jean-luc not anxious about joining another crew. on the sleigh is also paros. je
 
     <!-- -->
 
+    <!-- -->
+
 - the rocks are like very tall benches;
 
 - pieces of flesh hanging from trees; little boggle aristocrats blipping in and out.
@@ -113,12 +121,16 @@ jean-luc not anxious about joining another crew. on the sleigh is also paros. je
 
     <!-- -->
 
+    <!-- -->
+
 - somehow full dessicated genitals hanging from the trees. [what are the druids trying to do]
 
 - hung there liminally; the ritual space between the wrestling and the forest.
 
 - carlos is convinced that turtle can breathe out its butt
 
+
+<!-- -->
 
 <!-- -->
 
@@ -141,6 +153,8 @@ jean-luc not anxious about joining another crew. on the sleigh is also paros. je
 
 <!-- -->
 
+<!-- -->
+
 ## i draw the map of the wrestling center (100X70 ft)
 
 - seems like they are a little drunk
@@ -153,11 +167,15 @@ jean-luc not anxious about joining another crew. on the sleigh is also paros. je
 
 <!-- -->
 
+<!-- -->
+
 druid: hardly anything we do but wrestle, have a good time, drink deeply of the bubbling puddles. it looks like you've been eying that pamphlet. do you have any interest participating in the wrestling? Eltaeor.
 
 Unicorn shows up at his whistle.
 
 - this one has horn which is a dirty orange color; orange coalescing around a rusty screw or washer; whatever is bubbling in the pits is oozing out of its horn, and creating its mane -- oozing orange liquid. also oozing out of its chin to form thin whispy unicorn beard. the rest of its coat is a deep green.
+
+<!-- -->
 
 <!-- -->
 
@@ -188,6 +206,10 @@ Eltaeor: this is Exuviae Whiffinger. She is our patron deity here. Facilitates m
 
     <!-- -->
 
+    <!-- -->
+
+
+<!-- -->
 
 <!-- -->
 
@@ -209,9 +231,13 @@ Paros wakes up around now. eltaeor: bow before exuviae and think happy thoughts 
 
 <!-- -->
 
+<!-- -->
+
 dimpleweed academy -- martial attitude was where jean-luc trained. (the Dimpleweed in Cressida probably) maeve goozby and monks
 
 - should try swordfighting, too!
+
+<!-- -->
 
 <!-- -->
 
@@ -238,6 +264,8 @@ unicorn trapped in circle of people whose genitals are shining; and unicorn bows
 
 <!-- -->
 
+<!-- -->
+
 1st step is 2 movement, then 4, then 8 8 total steps (feet)
 
 - from far distance: eltaeor: if you come back i can make it a little easier to leave
@@ -256,8 +284,12 @@ unicorn trapped in circle of people whose genitals are shining; and unicorn bows
 
     <!-- -->
 
+    <!-- -->
+
 - jean-luc looks like dragging himself through thick, thick air
 
+
+<!-- -->
 
 <!-- -->
 
@@ -292,6 +324,8 @@ flick: this runic circle is not a portal; but the infinitude of boggles inside a
 
     <!-- -->
 
+    <!-- -->
+
 - detailing how the druids are lining up
 
 - able to get to jean-luc. druids picked up pan flutes and playingtaps and mozart's requiem on them.
@@ -310,9 +344,13 @@ flick: this runic circle is not a portal; but the infinitude of boggles inside a
 
     <!-- -->
 
+    <!-- -->
+
 - fight on behalf of exuviae
 
     - fez: how are you going to fight two halves of X, which is the whole exuviae
+
+    <!-- -->
 
     <!-- -->
 
@@ -338,6 +376,10 @@ flick: this runic circle is not a portal; but the infinitude of boggles inside a
 
     <!-- -->
 
+    <!-- -->
+
+
+<!-- -->
 
 <!-- -->
 
@@ -362,6 +404,8 @@ flick is going over to jean-luc
 
 <!-- -->
 
+<!-- -->
+
 ## rolling initiative for the fight
 
 - rolling about activates the oil; staying still will calm it; doesn't have bright light effect that he was seeing before (adv. on con save)
@@ -374,6 +418,8 @@ flick is going over to jean-luc
 
     - boggles quantum activity interacts with salt water that it shoots out turquoise prismatic spray.
     - mostly the druids and the boggles.
+
+    <!-- -->
 
     <!-- -->
 
@@ -405,6 +451,8 @@ flick is going over to jean-luc
 
     <!-- -->
 
+    <!-- -->
+
 - then carlos turn:
 
     - spiritual hammer: exuviae taps way around.
@@ -417,6 +465,10 @@ flick is going over to jean-luc
 
     <!-- -->
 
+    <!-- -->
+
+
+<!-- -->
 
 <!-- -->
 
@@ -439,11 +491,15 @@ flick doing a shitload of damage paros chromatic orb @ second level
 
 <!-- -->
 
+<!-- -->
+
 dressage: with the relevant effects unicorn not hurt at poison spray
 
 scrobs continues announcing.
 
 - fez takes a million bludgeoning damage from exuviae
+
+<!-- -->
 
 <!-- -->
 

@@ -6,6 +6,8 @@
 
 <!-- -->
 
+<!-- -->
+
 ## Recap
 
 ## Transcript
@@ -20,6 +22,8 @@ Jean-Luc [History not bad] knows there are some words not to call hobgoblins; (J
 
 - blidge (the b word)
 - 'hobgolem' is not offensive nor inoffensive; it's a neologist ("A Brianniel original")
+
+<!-- -->
 
 <!-- -->
 
@@ -176,6 +180,8 @@ Flick sharpshoots Rovlar, hitting once, and -- YOu'll never get another arrow th
 3. Startrella, sitting there, in her papasan, is trying a couple different ways of trying out the fizzlecoke in the ethereal plane
 4. Paros looks like a buffet; heaping, steaming trays of spirit food
 5. Behind Flick, reddish-gold tendrils, like smokey vines, hundreds of them emerging from the boxes on the ground, and going straight up into the sky, disappearing a hundred feet up due in part to the limited visibility of the ethereal plane. A single tendril emerges each from Udrek and Rovlar.
+
+<!-- -->
 
 <!-- -->
 

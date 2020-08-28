@@ -29,6 +29,8 @@ Level 6
 
 <!-- -->
 
+<!-- -->
+
 ## battle stage 2
 
 - gegathon soaks up some hp from hengest
@@ -37,6 +39,8 @@ Level 6
 - gegathon drowned by flick in the orange puddle
 - no return of exuviae
 - jean-luc coming in for stealth and surprise attacks
+
+<!-- -->
 
 <!-- -->
 
@@ -53,6 +57,8 @@ fez did radiant damage to gegathon
 - drav remembering about ley lines
 - mule, the mandrake root in the bag, mule eating it.
 - mules are sterile just like gegathon
+
+<!-- -->
 
 <!-- -->
 
