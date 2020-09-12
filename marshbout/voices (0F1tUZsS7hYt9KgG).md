@@ -1,5 +1,5 @@
-Andy Nyman from Hanna
-
+- Andy Nyman from Hanna
+- Jake and Caldwell's voices from Emily's beach sessions
 
 
 

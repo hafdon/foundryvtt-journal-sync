@@ -114,6 +114,8 @@ Drav [Arcana 21] knows that teleportation circles are a very specific kind of ma
 
 Flick gets up onto the roof, catches Mule's flank, and scrambles into her saddlebag. Flick uses her primeval awareness: "First of all, thanks very much for being willing to carry us all this way, but it's really important she get us as far away from this thing as possible, and we'll get her all the strawberries she wants" -- All the wild strawberries? You can make a promise. Can y0ou make sure this fishy man gets away from me? (Flick): That's another kind of action item we're going to have to worry about. (Roxfallanah): Action item? you seem very professional. (Flick) Crisis brings that out of me. We really have to get going. -- And then Mule takes off going 60 or 70 miles an hour, somehow leaving no trace of her passage. (Vengeance): How is she doing this having no calories? (Flick) I'll just give her a goodberry or two: I think that should take care of it. 
 
+[...]
+
 [2:40]
 
 WHen Mule shrinks to regular height you're lying face-first on the ground holding the strawberry up behind you, and she licks at Vengeance's balding pattern and takes the strawberry. Joan jumps off when Mule is still 40 feet high and only takes 4 damage because of rage. Drav and Jean-Luc fall off at 20 feet and take 10 damage [failing their DC 13 athletics / arobatics checks]. Startrella, either go big or go home, able to get to Si'a, can't dismount cleverly. Paros and Carlos stay on as Mule shrinks all the way. You are now a mile away from their overnight camp; looking back, they see that the tripod has stopped. Flick [nat 20] can see that it's extended tentacles from itself and it's emptying the boxes into a hatch opened in the back of the cabin. 

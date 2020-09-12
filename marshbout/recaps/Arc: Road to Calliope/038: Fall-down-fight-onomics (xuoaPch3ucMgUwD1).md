@@ -12,7 +12,7 @@ Gluggranok is still trying to get into one of the crates. Drav [Investigates 13]
 
 - (Vengeance) She can handle herself; she's always going off on her own little mini quests.
 
-
+???????????? 
 <!-- -->
 
 Paros has real world experience with horses. Because, you know, his parents get around on horses and there were horses in teh village. Once village horse, Scutterball, loved wild strawberries, which he then noticed with other horses. He sees now that Mule has ignored a large bush of wild strawberries in order to push her head into the cabin. (Vengeance might have fed her three days ago.)
@@ -140,19 +140,59 @@ Drav [Arcana 21] knows that teleportation circles are a very specific kind of ma
 - (Jean-Luc): there's something to be said for figuring out what's going on with these hobgoblins and the mind controlling helmets; it seems like something we're against on principle.
 - (paros): take the portal to bubbleland, right?
 - (star): "take the portal to bubbleland" is one of my favorite albums
-- (vengeance): i feel like if we go back to this pad we're going to have to hear a lot of bda acoustic guitar.
-- (star): i'm more worried you won't be able to appreciate the acoustic instruments i can play that you haven't even heard of before. i ould try to convey that to you, especially if you were on the right kind of mind-changing substances. this is way cooler than fizzlecoke.
+- (vengeance): i feel like if we go back to this pad we're going to have to hear a lot of bad acoustic guitar.
+- (star): i'm more worried you won't be able to appreciate the acoustic instruments i can play that you haven't even heard of before. i could try to convey that to you, especially if you were on the right kind of mind-changing substances. this is way cooler than fizzlecoke.
 - (paros): do i even want to know?
 - (star): that could be kind of dangerous for you, Paros, you're already dealing with three different minds in one.
 - (paros): what's wrong with that?
 - (star): nothing…? but you do seem like you move at a nice steady slow pace, so if that were to increase, i don't know if you have the cognitive resources to be able to deal with that.
 - (paros): are you trying to say that i'm not mentally up to snuff to handle my fizzlecoke.
+- star: that's a good one. If you can pun like that, you're definitely ready for the next step. but it's not gonna do you any good here. 
+- vengeance: I found something here; i'm not sure what it is but it might be useful if anyone wants to add to their collection of antiques. 
+- flick: how fast can you get us out of here?
+- star: you mean, ignoring the fact that time's an illusion.
+- flick: yes
+- paros: well, ignoring the fact that it's an illusion to us.
+- star: you can't have an illusion without a perspective on that illusion. but let's say five to ten minutes. but there's a lot of us. .. the problem is I can only take 8, including me.
+- flick: maybe we should hide in the trees and see what it does? udrek called it its master
+- paros: you know these organized crime things. they have a lot of ways to bring in money.
 
-<!-- -->
+jean-luc [history check on organized crime] (stocks and organized crime are) different sides, same coin. Insofar as I know cults, this is reminiscent of their behavior. i don't think they're really taking political office now and taking kickbacks or owning garbage disposal companies, or even drug dealing. it looks like they're after world domination, i would say. 
 
-[1:49:38] …
+- veenock: wait you heard about that waste management scam too in cressida?
+- flick: i'd be surprised if it wasn't crooked in any given city.
+- veenock: wow you mortals are already this jaded? maybe you should try your hand at being an eternal demon. there used to be so many fucking angels on this plane, you couldn't walk a step without somebody drinking a glass of skim milk. just disgusting. who. drinks. milk. it doesn't make any sense. 
 
-[2:30]
+- jean-luc: let's figure out what we're dealing with; if we bug out to startrellas and hang out, and then come back and figure out what's eating the gnolls.
+- paros: we might never come back if we go to Startrellas
+- veenock: wait do you have leads on the troll-eating thing? oh, i'm sorry, i thought you said troll. nevermind ... nevermind ...
+- paros: veenock, why do you care about this? 
+- veenock: i heard "organized crime" and i was like "yeah, count me in." i'll tell you right now, though, i've been around a while, i don't know what these caps are. they look like newfangled technology, and i'm used to fire and brimstone and bringing skeletons back to life.
+- paros: that was definiteyl not cool.
+- veenock: i think you mean very cool. don't you remember how long he could do wall sits ? you don't get quads like that overnight. you should have seen him do armhands. 3, 4 days
+- flick: but skeletons don't weight anything
+- veenock: he was also at a 30 degree angle so there was a lot of core strength
+- flick: he was a skeleton!
+- veenock: exactly, do you know how much strength it takes to hold yourself up without muscles
+- flick: a lot of strength of character
+
+A discussion ensues. Flick: our best bet is to get 300 feet to the west. jean-luc and i can be forward sentries. my guess is, the people inside the structure ... if they stop, people will have to get out. Paros: they've already noticed me, somehow. if I hide, I shouldn't be hiding with anyone else. (Paros suspects that the telepathic presence can probably detect any intelligent life form, but he didn't feel it until 2 miles so that might be its maximum range.) 
+
+(Have the mule fight the tower -- and turn it into power rangers)
+
+The decision is made to cast Enlarge/Reduce on Mule three times, and have the mule dash for almost the entire minute. [It is established that Vengeance keeps lizards and snakes inside the saddlebags] Flick goes to sell the plan to Aphelia. "We're going to ... run on a giant mule away from a mechobeast. Could you let me help you climb this tree to jump on?" Aphelia begins playing a well-known Mule-travelling song on her dulcimer and looks pretty excited. 
+
+Flick, having some kind of out of body experience, says "I was worried she was going to be one of those prissy NPCs who are really difficult, but she's a good sport." 
+
+Jean-Luc: Someone isn't being difficult if they don't want to ride a giant mule. 
+
+Flick: Even when you're traveling with us?
+
+Paros: Won't they notice a four-story-tall mule running around? 
+
+Flick: we could also reduce the size of the siege engine. (But if it doesn't willingly submit it can make a CON save)
+
+[2:10]
 
 Flick gets up onto the roof, catches Mule's flank, and scrambles into her saddlebag. Flick uses her primeval awareness: "First of all, thanks very much for being willing to carry us all this way, but it's really important she get us as far away from this thing as possible, and we'll get her all the strawberries she wants" -- All the wild strawberries? You can make a promise. Can y0ou make sure this fishy man gets away from me? (Flick): That's another kind of action item we're going to have to worry about. (Roxfallanah): Action item? you seem very professional. (Flick) Crisis brings that out of me. We really have to get going. -- And then Mule takes off going 60 or 70 miles an hour, somehow leaving no trace of her passage. (Vengeance): How is she doing this having no calories? (Flick) I'll just give her a goodberry or two: I think that should take care of it.
 
